@@ -1,4 +1,6 @@
 # Diabetes-Prediction
+
+## Introduction
 This project utilises ML in Python to accurately predict Diabetes using patient data, aiding in early disease detection and identifying high-risk individuals. It is invaluable in resource-limited settings, improving health outcomes, reducing costs, and enhancing quality of life for individuals and communities.
 
 In modern healthcare, non-invasive diagnostic tests have become a crucial requirement, but the significant volume of electronic data poses challenges for accurate diagnosis of diseases. Supervised machine learning algorithms have been proven to outperform traditional diagnostic systems, aiding in the early detection of high-risk diseases. This project aims to develop a cost effective diagnostic system that utilizes fundamental health parameters to predict potential future health complications using machine learning models. The proposed system can be used as a reliable tool for early detection and prevention of chronic diseases, particularly in resource-limited settings. The integration of machine learning algorithms in healthcare has the potential to revolutionize the medical industry, enhance patient outcomes, and reduce healthcare costs.
