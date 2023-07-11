@@ -35,7 +35,7 @@ The code creates a new input as a tuple and stores it in the `input_data` variab
 
 ### 3.1 Conclusion
 
-The use of different ML algorithms enabled the early detection of many chronic diseases such as heart, kidney, breast, and brain diseases, diabetes, Parkinson’s, etc. Throughout the literature, Support Vector Machine (SVM) and Logistic Regression algorithms were the most widely used at prediction, while accuracy was the most used performance metric. Both models proved to be adequate at predicting common diseases.
+The use of different ML algorithms enabled the early detection of many chronic diseases such as heart, kidney, breast cancer, and brain diseases, diabetes, Parkinson’s, etc. Throughout the literature, Support Vector Machine (SVM) and Logistic Regression algorithms were the most widely used at prediction, while accuracy was the most used performance metric. Both models proved to be adequate at predicting common diseases.
 
 These algorithms utilize a variety of methods, including feature selection, data pre-processing, and model training, to find patterns and correlations in the datasets and forecast the risk of a disease occurring accurately. Early disease diagnosis can lead to proactive treatments and better patient outcomes. To guarantee these algorithms' efficiency and dependability, it is crucial to validate them using extensive clinical research. There is a lot of potential for these algorithms to be incorporated into clinical practice and enhance patient care with ongoing improvements in machine learning techniques and the accessibility of huge datasets.
 
